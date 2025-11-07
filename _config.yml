@@ -84,11 +84,11 @@ analytics:
 author:
   name             : "Peirong Zheng \n郑培荣"
   avatar           : "profile.png"
-  bio              : "I am a PhD student in the area of AI at PolyU"
+  bio              : "I am a PhD student in AI at PolyU"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=cMXMk7cAAAAJ&hl=en"
   email            : "pzheng003@e.ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
