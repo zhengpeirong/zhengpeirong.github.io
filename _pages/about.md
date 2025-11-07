@@ -7,18 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at PolyU, supervised by [Dr XU Wenchao](https://huasion23.github.io/). My research interest broadly lies in the application of AI, specifically edge intelligence and large language models. I am highly motivated to explore these cutting-edge research topics. You can download my CV [here](files/CV-Zheng Peirong.pdf).
+I am currently a PhD student at PolyU, supervised by [Dr XU Wenchao](https://huasion23.github.io/). My research interest broadly lies in the application of AI, specifically edge intelligence and large language models. I am highly motivated to explore these cutting-edge research topics. 
+<!-- You can download my CV [here](files/CV-Zheng Peirong.pdf). -->
 
 ## News
 
-- [05/2024] One paper is accepted to SIGKDD'24
-- [02/2023] One paper is accepted to IEEE EMBC'23
+- [11/2025] One poster is accepted to MobiCom'25
+- [06/2025] Our survey is accepted to MobiCom'25
+- [05/2024] One paper (co-first author) is accepted to SIGKDD'24
+- [02/2023] One paper (co-first author) is accepted to IEEE EMBC'23
 
 Education
 ---------
 
 <p style="line-height:1.0">
-<font size="2">
+<font size="4">
 Jan 2024 - present<br />
 PhD student in Computing@PolyU<br />
 </font>
