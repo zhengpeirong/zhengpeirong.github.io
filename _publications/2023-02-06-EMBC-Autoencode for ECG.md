@@ -8,7 +8,7 @@ paperurl: 'https://zhengpeirong.github.io/onlineAcademicCV/files/EMBC23_0485_MS.
 ---
 [Download paper here](https://zhengpeirong.github.io/onlineAcademicCV/files/EMBC23_0485_MS.pdf)
 
-Abstract—At the beginning of the attack, atrial fibrillation
+<!-- Abstract—At the beginning of the attack, atrial fibrillation
 (AF) usually presents as paroxysmal atrial fibrillation (PAF),
 and may be further transformed into persistent AF that may
 cause high-risk diseases such as ischemic stroke and heart
@@ -34,4 +34,4 @@ input data meanwhile perform the subsequent classification
 with a small amount of labeled data as input. Moreover, the
 proposed algorithm could be useful to predict AF when the
 sample is scarce, and potentially prevent the occurrence of a
-paroxysmal atrial fibrillation.
+paroxysmal atrial fibrillation. -->

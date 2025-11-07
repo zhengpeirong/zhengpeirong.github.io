@@ -76,6 +76,7 @@ M.Sc in Communications Engineering<br />
 <font size="2">
 Aug 2018 - July 2022<br />
 B.E. in Communication Engineering (<b>Yingcai Honors Program</b> of UESTC)<br />
+<br />
 <!-- CGPA: 3.65/4		TOEFL(iBT): 103 -->
 </font>
 </p>

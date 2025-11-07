@@ -3,10 +3,10 @@ title: "Dakun Lai, *Peirong Zheng*, Yuchen Jiang and Yuxiang Bu, \"PAFNet：A Re
 collection: publications
 excerpt: 'Submitted to *Journal of Biomedical and Health Informatics (JBHI)*, 2023. Currently waiting for the response.'
 ---
-*Under review*. Submitted to the IEEE Sensor Journal[2024/05].
+<!-- *Under review*. Submitted to the IEEE Sensor Journal[2024/05]. -->
 
 
-Abstract—This study presents PAFNet, a novel real-time
+<!-- Abstract—This study presents PAFNet, a novel real-time
 deep learning model designed to predict the onset of
 paroxysmal atrial fibrillation (PAF) at least 45 minutes in
 advance using a single-lead electrocardiogram (ECG)
@@ -29,4 +29,4 @@ specificity, and accuracy of 97.12%, 97.77%, and 97.45%,
 respectively. The promising results suggest that PAFNet
 achieves high performance and offers the possibility of
 providing real-time, accurate, and inexpensive clinical
-tools to assist clinicians in predicting PAF events.
+tools to assist clinicians in predicting PAF events. -->
