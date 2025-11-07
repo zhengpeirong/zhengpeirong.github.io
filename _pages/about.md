@@ -70,13 +70,15 @@ M.Sc in Communications Engineering<br />
 </font>
 </p>
 -----
-<img style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png" width="160" height="140">
+<!-- <img style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png" width="160" height="140"> -->
 <!-- <img class="padded-image" style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png"> -->
+<img class="padded-image" style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png">
 ### University of Electronic Science and Technology of China
 <p style="line-height:1.0">
 <font size="2">
 Aug 2018 - July 2022<br />
-B.E. in Communication Engineering (<b>Yingcai Honors Program</b> of UESTC)<br />
+B.E. in Communication Engineering <br />
+(<b>Yingcai Honors Program</b> of UESTC)<br />
 <br />
 <!-- CGPA: 3.65/4		TOEFL(iBT): 103 -->
 </font>
