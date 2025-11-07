@@ -72,7 +72,7 @@ M.Sc in Communications Engineering<br />
 -----
 <!-- <img style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png" width="160" height="140"> -->
 <!-- <img class="padded-image" style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png"> -->
-<img class="padded-image" style="float: left; margin:5px 10px" src="images/UESTC_xiaohui.png">
+<img class="padded-image" style="float: left; margin:-10px 10px" src="images/UESTC_xiaohui.png">
 ### University of Electronic Science and Technology of China
 <p style="line-height:1.0">
 <font size="2">
