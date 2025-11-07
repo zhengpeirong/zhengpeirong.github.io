@@ -84,12 +84,16 @@ analytics:
 author:
   name             : "Peirong Zheng \n郑培荣"
   avatar           : "profile.png"
-  bio              : "I am a PhD student in AI at PolyU"
+  bio              : "I am a PhD student in AI at HKPU"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cMXMk7cAAAAJ&hl=en"
-  email            : "pzheng003@e.ntu.edu.sg"
+  # email            : "pzheng003@e.ntu.edu.sg"
+  email            : "peirong.zheng@connect.polyu.hk"
+  github           : "zhengpeirong"
+  orcid            : "http://orcid.org/0009-0006-2694-9451"
+  # twitter          : "PeirongZheng"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,20 +102,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhengpeirong"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0009-0006-2694-9451"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "PeirongZheng"
   vine             :
   weibo            :
   xing             :
