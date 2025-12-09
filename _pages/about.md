@@ -30,7 +30,7 @@ Reviwer for IEEE Transactions on Sustainable Computing
 <p style="line-height:1.0">
 <font size="4">
 <!-- Jan 2024 - present<br /> -->
-Jan 2024 - present | PhD student in Computing@PolyU<br />
+Jan 2024 - present | PhD student in Computing@HKPU<br />
 </font>
 </p>
 -----
