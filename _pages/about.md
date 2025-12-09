@@ -25,7 +25,7 @@ I am currently a PhD student at The Hong Kong Polytechnic University (HKPU), sup
 Reviwer for IEEE Transactions on Sustainable Computing
 
 ## Education
----------
+<!-- --------- -->
 
 <p style="line-height:1.0">
 <font size="4">
