@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at PolyU, supervised by [Prof. XU Wenchao](https://huasion23.github.io/). My research interest broadly lies in AI serving, specifically large language models in edge. I am highly motivated to explore these cutting-edge research topics.
+I am currently a PhD student at The Hong Kong Polytechnic University (HKPU), supervised by [Prof. XU Wenchao](https://huasion23.github.io/). My research interest broadly lies in AI serving, specifically large language models in edge. I am highly motivated to explore these cutting-edge research topics.
 <!-- You can download my CV [here](files/CV-Zheng Peirong.pdf). -->
 
 <!-- ## News -->
 ## Publications
-- [11/2025] One poster is accepted to MobiCom'25 @HongKong (CCF-A)
+- [12/2025] One paper is accepted by IEEE INFOCOM'26 @Tokyo (CCF-A)
+- [11/2025] One poster is accepted by MobiCom'25 @HongKong (CCF-A)
 - [06/2025] Our survey is accepted by IEEE Commun. Surv. Tutor'25 (Q1)
 - [05/2024] One paper (co-first author) is accepted by SIGKDD'24 @Barcelona (CCF-A)
 - [02/2023] One paper (co-first author) is accepted by IEEE EMBC'23 @Syndey (top-tier in biomedical engineering)
@@ -62,7 +63,7 @@ PhD in Computing<br />
 <p style="line-height:1.0">
 <font size="2">
 Aug 2022 - Nov 2023<br />
-M.Sc in Communications Engineering<br />
+M.Sc. in Communications Engineering<br />
 </font>
 </p>
 
