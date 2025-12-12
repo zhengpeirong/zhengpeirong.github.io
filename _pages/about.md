@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Peirong Zheng"
-excerpt: "Peirong Zheng"
+title: "ZHENG Peirong"
+excerpt: "ZHENG Peirong"
 author_profile: true
 redirect_from: 
   - /about/
