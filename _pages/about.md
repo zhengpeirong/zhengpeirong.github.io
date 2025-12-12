@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at The Hong Kong Polytechnic University (HKPU), supervised by [Prof. XU Wenchao](https://huasion23.github.io/). My research interest broadly lies in AI serving, specifically large language models in edge. I am highly motivated to explore these cutting-edge research topics.
+I am currently a PhD student at The Hong Kong Polytechnic University (HKPU), supervised by [Prof. XU Wenchao](https://huasion23.github.io/) and [Prof. XIAO Bin](https://web.comp.polyu.edu.hk/csbxiao/). My research interest broadly lies in edge AI, specifically serving large language models in edge. I am highly motivated to explore these cutting-edge research topics.
 <!-- You can download my CV [here](files/CV-Zheng Peirong.pdf). -->
 
 <!-- ## News -->
