@@ -12,6 +12,7 @@ I am currently a PhD candidate at [The Hong Kong Polytechnic University (HKPU)](
 
 <!-- ## News -->
 ## Publications
+- [01/2026] One paper is accepted by WWW'26 @Dubai (CCF-A)
 - [12/2025] One paper is accepted by IEEE INFOCOM'26 @Tokyo (CCF-A)
 - [11/2025] One poster is accepted by MobiCom'25 @HongKong (CCF-A)
 - [06/2025] Our survey is accepted by IEEE Commun. Surv. Tutor'25 (Q1)
