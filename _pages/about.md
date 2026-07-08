@@ -21,10 +21,9 @@ I am currently a PhD candidate at [The Hong Kong Polytechnic University (HKPU)](
 
 
 
-## Service
-<!-- Reviwer for KDD'26 -->
-- Reviwer for IEEE Transactions on Mobile Computing
-- Reviwer for IEEE Transactions on Sustainable Computing
+## Reviwer
+- KDD,CVPR,ECCV,NeurIPS,ICCV
+- IEEE Transactions on Mobile Computing, IEEE Transactions on Sustainable Computing
 
 ## Education
 <!-- --------- -->
