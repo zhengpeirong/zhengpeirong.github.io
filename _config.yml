@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "ZHENG Peirong"
 title_separator          : "-"
 name                     : &name "ZHENG Peirong"
-description              : &description "personal description"
+description              : &description "PhD candidate at The Hong Kong Polytechnic University, working on edge AI and efficient large language model serving."
 # url                      : https://zhengpeirong.github.io/onlineAcademicPage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://zhengpeirong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   name             : "ZHENG Peirong \n郑培荣"
   # avatar           : "profile.png"
   avatar           : "photo.jpg"
-  bio              : "I am a PhD candidate in AI at HKPU"
+  bio              : "PhD candidate in Computing at PolyU."
   location         : "Hong Kong"
   employer         :
   pubmed           : 
@@ -94,6 +94,7 @@ author:
   email            : "peirong.zheng@connect.polyu.hk"
   github           : "zhengpeirong"
   orcid            : "http://orcid.org/0009-0006-2694-9451"
+  cv               : "/files/CV-Peirong-Zheng.pdf"
   # twitter          : "PeirongZheng"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
