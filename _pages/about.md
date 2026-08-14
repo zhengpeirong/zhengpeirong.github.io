@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "ZHENG Peirong"
-excerpt: "PhD candidate working on edge AI and efficient large language model serving."
+excerpt: "PhD candidate working on efficient AI in edge."
 author_profile: true
 show_title: false
 redirect_from:
@@ -13,7 +13,7 @@ redirect_from:
 
 Hi there! I am **Peirong Zheng (郑培荣)**, a PhD candidate in Computing at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), supervised by [Prof. Wenchao Xu](https://huasion23.github.io/) and [Prof. Bin Xiao](https://web.comp.polyu.edu.hk/csbxiao/).
 
-My research focuses on **edge AI and efficient large language model serving**, with a particular interest in making advanced AI systems practical on resource-constrained devices. I am always happy to discuss related research and potential collaborations.
+My research focuses on **edge AI and efficient foundation model deployment**, with a particular interest in designing practical algorithm-system co-design on resource-constrained devices. I am always happy to discuss related research and potential collaborations.
 
 <h1 id="news">🔥 News</h1>
 
